@@ -16,3 +16,24 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.date-input{
+  max-width: 720px;
+  text-align: center;
+  margin: 100px auto;
+} 
+
+.timer {
+  margin: 40px 60px;
+  display: flex;
+  justify-content: space-between;
+}
+.value {
+  display: block;
+  font-size: 50px;
+  font-weight: 700;
+}
+.label {
+  display: block;
+  text-align: center;
+}
